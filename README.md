@@ -1,6 +1,7 @@
 # Grasscutter Linux OneClick
 
 > 为防止倒卖 该脚本已进行闭源 & 混淆处理
+> 
 > 怕后门别用
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
