@@ -18,7 +18,7 @@ Tested on:
 使用方法
 
 ```bash
-curl https://linux.mihoyo-is-in.icu/install && chmod +x install && ./install
+curl https://linux.mihoyo-is-in.icu/install --output install && chmod +x install && ./install
 ```
 
 如果可以的话 请考虑[捐赠](https://afdian.net/@chitang)来支持开发及域名费用
