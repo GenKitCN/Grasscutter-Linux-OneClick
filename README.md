@@ -51,6 +51,6 @@ curl https://linux.mihoyo-is-in.icu/install_aarch64 --output install && chmod +x
 
 如果实在对安全放不下，我也欢迎手动搭建，这并不会对我们造成任何利益上的影响
 
-想要看源码也没问题，请你保证不以任何形式传出该脚本并愿意为项目做贡献，请[联系我](mailto:chitang@mihoyo-is-in.icu)，我可以邀请您进入本 GitHub 组织，而未经混淆的脚本就在 GenKitCN/Grasscutter-OneClick 中，我们接受您的审查
+想要看源码也没问题，在你保证不以任何形式传出该脚本并愿意为项目做贡献的情况下，可以选择[联系我](mailto:chitang@mihoyo-is-in.icu)，我会邀请您进入本 GitHub 组织，而未经混淆的脚本就在 GenKitCN/Grasscutter-OneClick 中，我们愿意接受您的审查
 
 最后，如果可以的话 请考虑[捐赠](https://afdian.net/@chitang)来支持开发及域名费用
